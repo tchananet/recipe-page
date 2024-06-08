@@ -4,6 +4,14 @@
 #####################################################
 *.sketch
 *.fig
+design/desktop-design.jpg
+design/desktop-preview.jpg
+design/mobile-design.jpg
+
+
+/README-copy.md
+README-template.md
+style-guide.md
 
 # Avoid accidental XD upload if you convert the design file
 ###############################################
